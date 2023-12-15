@@ -6,6 +6,7 @@ A collection of python exercises that I have been using to practice and learn py
 Sources so far: 
 -Intro to Python for Computer Science and Data Science (book by Paul Deitel and Harvey Deitel)
 -Platzi (online courses)
+-Random, curiosity-driven coding :)
 
 
 
